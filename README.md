@@ -32,7 +32,7 @@
 <a href="https://vaibhav-more-portfolio-site.netlify.app/"><img align="left" alt="vaibhav|portfollio"   src="https://camo.githubusercontent.com/9cf57c5f06336ff142f2ff361febd83f56a473f21d07298dc0e750c917ecdbde/68747470733a2f2f696d672e69636f6e73382e636f6d2f666c75656e742f34382f3030303030302f706f7274666f6c696f2e706e67" /></a>
 <a href="https://www.linkedin.com/in/vaibhav131/"><img align="left" alt="vaibhav|linkdin" src="https://camo.githubusercontent.com/162001cc0747178f47ced6e40de0cd16e375beb9b5fbca4ea3d520ecca78cd85/68747470733a2f2f696d672e69636f6e73382e636f6d2f666c75656e742f34382f3030303030302f6c696e6b6564696e2e706e67" /></a>
 <a href="https://twitter.com/mvaibhav131"><img align="left" alt="vaibhav|twitter"  src="https://camo.githubusercontent.com/935991993635cd0e6398dd4368b13949a1bac7853b6361bd8d44bf95641f986a/68747470733a2f2f696d672e69636f6e73382e636f6d2f666c75656e742f34382f3030303030302f747769747465722e706e67" /></a>
-<a href="https://www.instagram.com/vaibhavmore1997/"><img align="left" alt="vaibhav|insta" src="https://camo.githubusercontent.com/15de05815ac1eacce5ad522291d8fc1e7bc86b2aeb4e90b063a023044efe2a91/68747470733a2f2f696d672e69636f6e73382e636f6d2f666c75656e742f34382f3030303030302f696e7374616772616d2d6e65772e706e67" /></a><i class="fa-brands fa-medium"></i>
+<a href="https://www.instagram.com/vaibhavmore1997/"><img align="left" alt="vaibhav|insta" src="https://camo.githubusercontent.com/15de05815ac1eacce5ad522291d8fc1e7bc86b2aeb4e90b063a023044efe2a91/68747470733a2f2f696d672e69636f6e73382e636f6d2f666c75656e742f34382f3030303030302f696e7374616772616d2d6e65772e706e67" /></a>
 
 
 
