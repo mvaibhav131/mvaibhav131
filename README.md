@@ -33,7 +33,7 @@
 <a href=" "><img align="left" alt="vaibhav|linkdin" width="31px"  src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" /></a>
 <a href=" "><img align="left" alt="vaibhav|twitter" width="31px"  src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" /></a>
 <a href=" "><img align="left" alt="vaibhav|insta" width="31px"  src="https://camo.githubusercontent.com/15de05815ac1eacce5ad522291d8fc1e7bc86b2aeb4e90b063a023044efe2a91/68747470733a2f2f696d672e69636f6e73382e636f6d2f666c75656e742f34382f3030303030302f696e7374616772616d2d6e65772e706e67" /></a>
-<a href=" " target="_blank"><img align="left" alt="vaibhav|medium" width="31px"  src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" /></a>
+<a href=" " target="_blank"><img align="left" alt="vaibhav|medium" width="31px"  src="[https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRms0-XCxnCiLfsREX_efsuJnO9emHFLCG0fA&usqp=CAU)" /></a>
 
 
 
