@@ -29,11 +29,11 @@
 
 ## Connect with me : 
 
-<a href=" "><img align="left" alt="vaibhav|portfollio" width="31px"  src="https://camo.githubusercontent.com/9cf57c5f06336ff142f2ff361febd83f56a473f21d07298dc0e750c917ecdbde/68747470733a2f2f696d672e69636f6e73382e636f6d2f666c75656e742f34382f3030303030302f706f7274666f6c696f2e706e67" /></a>
-<a href=" "><img align="left" alt="vaibhav|linkdin" width="31px"  src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" /></a>
-<a href=" "><img align="left" alt="vaibhav|twitter" width="31px"  src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" /></a>
-<a href=" "><img align="left" alt="vaibhav|insta" width="31px"  src="https://camo.githubusercontent.com/15de05815ac1eacce5ad522291d8fc1e7bc86b2aeb4e90b063a023044efe2a91/68747470733a2f2f696d672e69636f6e73382e636f6d2f666c75656e742f34382f3030303030302f696e7374616772616d2d6e65772e706e67" /></a>
-<a href=" " target="_blank"><img align="left" alt="vaibhav|medium" width="31px"  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRms0-XCxnCiLfsREX_efsuJnO9emHFLCG0fA&usqp=CAU" /></a>
+<a href="https://vaibhav-more-portfolio-site.netlify.app/"><img align="left" alt="vaibhav|portfollio" width="45px"  src="https://camo.githubusercontent.com/9cf57c5f06336ff142f2ff361febd83f56a473f21d07298dc0e750c917ecdbde/68747470733a2f2f696d672e69636f6e73382e636f6d2f666c75656e742f34382f3030303030302f706f7274666f6c696f2e706e67" /></a>
+<a href="https://www.linkedin.com/in/vaibhav131/"><img align="left" alt="vaibhav|linkdin" width="31px"  src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" /></a>
+<a href=" https://www.twitter.com/mvaibhav131"><img align="left" alt="vaibhav|twitter" width="31px"  src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" /></a>
+<a href="https://www.instagram.com/vaibhavmore1997/"><img align="left" alt="vaibhav|insta" width="45px"  src="https://camo.githubusercontent.com/15de05815ac1eacce5ad522291d8fc1e7bc86b2aeb4e90b063a023044efe2a91/68747470733a2f2f696d672e69636f6e73382e636f6d2f666c75656e742f34382f3030303030302f696e7374616772616d2d6e65772e706e67" /></a>
+<a href="https://medium.com/@vaibhavmore24051997" target="_blank"><img align="left" alt="vaibhav|medium" width="31px"  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRms0-XCxnCiLfsREX_efsuJnO9emHFLCG0fA&usqp=CAU" /></a>
 
 
 
