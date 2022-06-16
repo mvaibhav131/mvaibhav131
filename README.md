@@ -29,10 +29,10 @@
 
 ## Connect with me : 
 
-<a href=" "><img align="left" alt="vaibhav|twitter" width="25px" height="25px"  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkmM_Vy9k9oxzmzdtxTbN6Xp93MfEUaqqTxg&usqp=CAU" /></a>
-<a href=" "><img align="left" alt="vaibhav|twitter" width="25px"  src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" /></a>
-<a href=" "><img align="left" alt="vaibhav|twitter" width="25px"  src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" /></a>
-<a href=" "><img align="left" alt="vaibhav|twitter" width="25px" height="25px"  src="https://akm-img-a-in.tosshub.com/indiatoday/images/story/202108/Instagram_0.jpg?ZZLGdE1PjohTO.aeUOUEQYBxAWLPgCGT&size=770:433" /></a>
+<a href=" "><img align="left" alt="vaibhav|twitter" width="31px" height="31px"  src="https://camo.githubusercontent.com/9cf57c5f06336ff142f2ff361febd83f56a473f21d07298dc0e750c917ecdbde/68747470733a2f2f696d672e69636f6e73382e636f6d2f666c75656e742f34382f3030303030302f706f7274666f6c696f2e706e67" /></a>
+<a href=" "><img align="left" alt="vaibhav|twitter" width="31px"  src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" /></a>
+<a href=" "><img align="left" alt="vaibhav|twitter" width="31px"  src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" /></a>
+<a href=" "><img align="left" alt="vaibhav|twitter" width="31px" height="31px"  src="https://camo.githubusercontent.com/15de05815ac1eacce5ad522291d8fc1e7bc86b2aeb4e90b063a023044efe2a91/68747470733a2f2f696d672e69636f6e73382e636f6d2f666c75656e742f34382f3030303030302f696e7374616772616d2d6e65772e706e67" /></a>
 
 
 
