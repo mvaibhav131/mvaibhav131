@@ -31,7 +31,7 @@
 
 <a href=" "><img align="left" alt="vaibhav|twitter" width="25px"  src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" /></a>
 <a href=" "><img align="left" alt="vaibhav|twitter" width="25px"  src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" /></a>
-<a href=" "><img align="left" alt="vaibhav|twitter" width="25px"  src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/portfollio.svg" /></a>
+<a href=" "><img align="left" alt="vaibhav|twitter" width="25px"  src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/instagrams.svg" /></a>
 
 
 
